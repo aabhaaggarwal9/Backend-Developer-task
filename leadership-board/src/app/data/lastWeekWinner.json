@@ -1,0 +1,24 @@
+{
+  "name": "Department Two",
+  "books": [
+    {
+      "id": 4,
+      "title": "Book Four",
+      "author": "Author Four",
+      "downloads": 70
+    },
+    {
+      "id": 5,
+      "title": "Book Five",
+      "author": "Author Five",
+      "downloads": 40
+    },
+    {
+      "id": 6,
+      "title": "Book Six",
+      "author": "Author Six",
+      "downloads": 60
+    }
+  ],
+  "downloads": 170
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Department Three",
+    "downloads": 180,
+    "books": [
+      {
+        "id": 7,
+        "title": "Book Seven",
+        "author": "Author Seven",
+        "downloads": 80
+      },
+      {
+        "id": 8,
+        "title": "Book Eight",
+        "author": "Author Eight",
+        "downloads": 90
+      },
+      {
+        "id": 9,
+        "title": "Book Nine",
+        "author": "Author Nine",
+        "downloads": 10
+      }
+    ]
+  },
+  {
+    "name": "Department Two",
+    "downloads": 170,
+    "books": [
+      {
+        "id": 4,
+        "title": "Book Four",
+        "author": "Author Four",
+        "downloads": 70
+      },
+      {
+        "id": 5,
+        "title": "Book Five",
+        "author": "Author Five",
+        "downloads": 40
+      },
+      {
+        "id": 6,
+        "title": "Book Six",
+        "author": "Author Six",
+        "downloads": 60
+      }
+    ]
+  },
+  {
+    "name": "Department Five",
+    "downloads": 165,
+    "books": [
+      {
+        "id": 13,
+        "title": "Book Thirteen",
+        "author": "Author Thirteen",
+        "downloads": 25
+      },
+      {
+        "id": 14,
+        "title": "Book Fourteen",
+        "author": "Author Fourteen",
+        "downloads": 65
+      },
+      {
+        "id": 15,
+        "title": "Book Fifteen",
+        "author": "Author Fifteen",
+        "downloads": 75
+      }
+    ]
+  },
+  {
+    "name": "Department Four",
+    "downloads": 135,
+    "books": [
+      {
+        "id": 10,
+        "title": "Book Ten",
+        "author": "Author Ten",
+        "downloads": 35
+      },
+      {
+        "id": 11,
+        "title": "Book Eleven",
+        "author": "Author Eleven",
+        "downloads": 45
+      },
+      {
+        "id": 12,
+        "title": "Book Twelve",
+        "author": "Author Twelve",
+        "downloads": 55
+      }
+    ]
+  },
+  {
+    "name": "Department One",
+    "downloads": 100,
+    "books": [
+      {
+        "id": 1,
+        "title": "Book One",
+        "author": "Author One",
+        "downloads": 50
+      },
+      {
+        "id": 2,
+        "title": "Book Two",
+        "author": "Author Two",
+        "downloads": 30
+      },
+      {
+        "id": 3,
+        "title": "Book Three",
+        "author": "Author Three",
+        "downloads": 20
+      }
+    ]
+  }
+]
